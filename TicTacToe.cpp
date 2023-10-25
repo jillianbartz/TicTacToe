@@ -13,6 +13,8 @@ int add()
 
 int main()
 {   
+
+    // add a menu, then lets try and make a leaderboard using classes if i have enough time
     int choice;
     
     cout  << "menu \n 1. play \n";
