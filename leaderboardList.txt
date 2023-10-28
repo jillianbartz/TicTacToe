@@ -1,2 +1,4 @@
-ur mom,240
-hahahaha,180
+Jillian,40
+player, 10
+playerTest,10
+j,0
